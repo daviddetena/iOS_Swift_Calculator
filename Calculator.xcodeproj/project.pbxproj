@@ -22,6 +22,7 @@
 		595F8A371E524A590062A5D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		595F8A3A1E524A590062A5D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		595F8A3C1E524A590062A5D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		595F8A421E524C2C0062A5D6 /* WorkSans-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WorkSans-ExtraLight.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				595F8A301E524A590062A5D6 /* AppDelegate.swift */,
 				595F8A321E524A590062A5D6 /* ViewController.swift */,
+				595F8A421E524C2C0062A5D6 /* WorkSans-ExtraLight.ttf */,
 				595F8A341E524A590062A5D6 /* Main.storyboard */,
 				595F8A371E524A590062A5D6 /* Assets.xcassets */,
 				595F8A391E524A590062A5D6 /* LaunchScreen.storyboard */,
